@@ -41,6 +41,12 @@ namespace WebCore2
             else
             {
                 app.UseExceptionHandler("/Home/Error");
+                var gddd = new
+                {
+                    goodname="aggefafafa",
+                    goodsid="gqgaff",
+                    imgurl="fqqg"
+                };
             }
 
             app.UseStaticFiles();
