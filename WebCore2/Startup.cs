@@ -41,6 +41,12 @@ namespace WebCore2
             else
             {
                 app.UseExceptionHandler("/Home/Error");
+                var fafa = new
+                {
+                    name="zgq",
+                    age="3421",
+                    sex=1
+                };
             }
 
             app.UseStaticFiles();
