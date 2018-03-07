@@ -1,0 +1,11 @@
+F:\testproject\WebCoreTest\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.deps.json
+F:\testproject\WebCoreTest\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.runtimeconfig.json
+F:\testproject\WebCoreTest\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.runtimeconfig.dev.json
+F:\testproject\WebCoreTest\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.dll
+F:\testproject\WebCoreTest\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.pdb
+F:\testproject\WebCoreTest\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.csprojResolveAssemblyReference.cache
+F:\testproject\WebCoreTest\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.csproj.CoreCompileInputs.cache
+F:\testproject\WebCoreTest\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.AssemblyInfoInputs.cache
+F:\testproject\WebCoreTest\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.AssemblyInfo.cs
+F:\testproject\WebCoreTest\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.dll
+F:\testproject\WebCoreTest\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.pdb
