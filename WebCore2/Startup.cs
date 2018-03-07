@@ -43,12 +43,17 @@ namespace WebCore2
                 app.UseExceptionHandler("/Home/Error");
                 var fafa = new
                 {
-                    name="zgq",
-                    age="3421",
-                    sex=1
+                    name = "zgq",
+                    age = "3421",
+                    sex = 1
+                };
+                var gddd = new
+                {
+                    goodname = "aggefafafa",
+                    goodsid = "gqgaff",
+                    imgurl = "fqqg"
                 };
             }
-
             app.UseStaticFiles();
 
             app.UseMvc(routes =>
